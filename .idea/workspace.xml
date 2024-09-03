@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="add String.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="edit String.kt and add String2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.String2Kt">
+  <component name="RunManager" selected="Kotlin.RawStringKt">
     <configuration name="Boolean2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean2Kt" />
       <module name="DasarPemrogramanKotlin" />
@@ -54,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EksplisitCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EksplisitCharKt" />
+    <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RawStringKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RawStringKt" />
         <item itemvalue="Kotlin.String2Kt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.Boolean2Kt" />
         <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.EksplisitCharKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725375001944</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="edit String.kt and add String2.kt">
+      <created>1725375803204</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725375803204</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +266,7 @@
     <MESSAGE value="Add Boolean.kt" />
     <MESSAGE value="Add Boolean2.kt menganalisa kesalahan yang terjadi kode pemrograman kotlin" />
     <MESSAGE value="add String.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add String.kt" />
+    <MESSAGE value="edit String.kt and add String2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit String.kt and add String2.kt" />
   </component>
 </project>
