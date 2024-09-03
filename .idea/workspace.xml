@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="add rawString2.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTemplates.kt" afterDir="false" />
+    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="add StringTemplates.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnggotaString.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
+  <component name="RunManager" selected="Kotlin.AnggotaStringKt">
+    <configuration name="AnggotaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnggotaStringKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RawString2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RawString2Kt" />
       <module name="DasarPemrogramanKotlin" />
@@ -60,13 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AnggotaStringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.RawString2Kt" />
         <item itemvalue="Kotlin.RawStringKt" />
         <item itemvalue="Kotlin.String2Kt" />
-        <item itemvalue="Kotlin.StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725376921736</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add StringTemplates.kt">
+      <created>1725377584825</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725377584825</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +291,7 @@
     <MESSAGE value="edit String.kt and add String2.kt" />
     <MESSAGE value="add rawString.kt" />
     <MESSAGE value="add rawString2.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add rawString2.kt" />
+    <MESSAGE value="add StringTemplates.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add StringTemplates.kt" />
   </component>
 </project>
