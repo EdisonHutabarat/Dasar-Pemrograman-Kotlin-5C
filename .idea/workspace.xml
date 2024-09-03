@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add Var vs Val Variabel">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
+    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add TipeData.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData_Decimal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TipeDataKt">
+  <component name="RunManager" selected="Kotlin.TipeData_DecimalKt">
     <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipeData_DecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeData_DecimalKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipeData_DecimalKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.Val_VariabelKt" />
         <item itemvalue="Kotlin.Var_VariabelKt" />
         <item itemvalue="Kotlin.Variabel2Kt" />
-        <item itemvalue="Kotlin.VariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725346426360</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add TipeData.kt">
+      <created>1725346911530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346911530</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +179,7 @@
     <MESSAGE value="Add Variabel.kt" />
     <MESSAGE value="Add Variabel2.kt" />
     <MESSAGE value="Add Var vs Val Variabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Var vs Val Variabel" />
+    <MESSAGE value="Add TipeData.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TipeData.kt" />
   </component>
 </project>
