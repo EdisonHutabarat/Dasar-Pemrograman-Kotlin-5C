@@ -3,5 +3,5 @@ fun main(args: Array<String>) {
     for(chr in myName){
         print(chr)
     }
-    print('\n')
+    print('\n') //berfungsi membuat baris baru
 }
