@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add Variabel.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel2.kt" afterDir="false" />
+    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add Variabel2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Val_Variabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Var_Variabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Variabel2Kt">
+  <component name="RunManager" selected="Kotlin.Val_VariabelKt">
     <configuration name="Blok_KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blok_KomentarKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -45,8 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+    <configuration name="Val_VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Val_VariabelKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var_VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Var_VariabelKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Val_VariabelKt" />
+        <item itemvalue="Kotlin.Var_VariabelKt" />
         <item itemvalue="Kotlin.Variabel2Kt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.Blok_KomentarKt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345474230</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Variabel2.kt">
+      <created>1725345750629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345750629</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +164,7 @@
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add Blok_Komentar.kt" />
     <MESSAGE value="Add Variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel.kt" />
+    <MESSAGE value="Add Variabel2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel2.kt" />
   </component>
 </project>
