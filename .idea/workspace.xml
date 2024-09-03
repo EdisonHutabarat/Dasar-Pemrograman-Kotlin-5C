@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add UnderscoreLiteral.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
+    <list default="true" id="b14b836e-a318-4010-847a-bdb22644ef88" name="Changes" comment="Add Representasi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RepresentasiKt">
+  <component name="RunManager" selected="Kotlin.KonversiEksplisitKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -45,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeData_DecimalKt" />
-        <item itemvalue="Kotlin.TipeDataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725348627299</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Representasi.kt">
+      <created>1725348988443</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725348988443</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +210,7 @@
     <MESSAGE value="Add TipeData_Decimal.kt" />
     <MESSAGE value="Add ConstantsLiteral.kt" />
     <MESSAGE value="Add UnderscoreLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add UnderscoreLiteral.kt" />
+    <MESSAGE value="Add Representasi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
   </component>
 </project>
